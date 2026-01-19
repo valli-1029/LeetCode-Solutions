@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0263-ugly-number) |
@@ -47,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
