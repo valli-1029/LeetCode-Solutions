@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1492-the-kth-factor-of-n](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 ## Recursion
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,4 +66,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
