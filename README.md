@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0204-count-primes](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Database
 |  |
 | ------- |
@@ -91,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0197-rising-temperature) |
+## Greedy
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
