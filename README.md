@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0069-sqrtx) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0342-power-of-four) |
