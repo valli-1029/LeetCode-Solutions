@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1492-the-kth-factor-of-n](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 | [3516-find-closest-person](https://github.com/valli-1029/LeetCode-Solutions/tree/master/3516-find-closest-person) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 ## Sorting
 |  |
 | ------- |
