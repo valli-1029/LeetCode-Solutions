@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0263-ugly-number) |
@@ -157,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
