@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1492-the-kth-factor-of-n](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/valli-1029/LeetCode-Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3516-find-closest-person](https://github.com/valli-1029/LeetCode-Solutions/tree/master/3516-find-closest-person) |
 ## Recursion
 |  |
@@ -162,4 +163,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0223-rectangle-area) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/valli-1029/LeetCode-Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
