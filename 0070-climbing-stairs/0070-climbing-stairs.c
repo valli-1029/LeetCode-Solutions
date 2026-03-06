@@ -1,15 +1,14 @@
 int climbStairs(int n) {
-    if (n==1) return 1;
+    if(n==1) return 1;
     if (n==2) return 2;
 
-    int a=1;
-    int b=2;
-    int c;
-
-    for (int i=3;i<=n;i++) {
-        c=a+b;
+    int a=1,b=2;
+    int steps;
+    for(int i=3;i<=n;i++){
+        steps=a+b;
         a=b;
-        b=c;
+        b=steps;
     }
     return b;
+
 }
