@@ -9,7 +9,7 @@ bool isHappy(int n) {
             sum=sum+(rem*rem);
             n=n/10;
         }
-n=sum;
+   n=sum;
     }
     if(sum==1) return true;
 return false;
