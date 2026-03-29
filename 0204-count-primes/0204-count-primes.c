@@ -1,23 +1,25 @@
 int countPrimes(int n){
-    if(n<=2) return 0;
+    if(n <= 2) return 0;
 
-    int odds=(n+1)/2;
-    int prime[odds];
-    for(int i=0;i<odds;i++){
-        prime[i]=1;
-    }
-for (int i=3; i*i<n; i+=2) {
-        if (prime[i/2]) {
-            for (int j=i*i;j<n;j+=2*i) {
-                prime[j/2]=0;
+    int *prime = (int*)malloc(n * sizeof(int));
+
+    for(int i = 0; i < n; i++)
+        prime[i] = 1;
+
+    prime[0] = prime[1] = 0;
+
+    for(int i = 2; i * i < n; i++){
+        if(prime[i]){
+            for(int j = i * i; j < n; j += i){
+                prime[j] = 0;
             }
         }
     }
 
-    int count=1;
-    for (int i=3;i<n;i+=2) {
-        if (prime[i/2]) count++;
+    int count = 0;
+    for(int i = 3; i < n; i += 2){ 
+        if(prime[i]) count++;
     }
 
-    return count;
+    return count + 1;
 }
