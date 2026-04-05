@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0231-power-of-two) |
@@ -218,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0062-unique-paths) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
