@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0343-integer-break](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0343-integer-break) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0089-gray-code](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0089-gray-code) |
 ## Combinatorics
 |  |
