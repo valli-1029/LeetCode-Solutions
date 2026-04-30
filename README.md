@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1250-check-if-it-is-a-good-array](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1250-check-if-it-is-a-good-array) |
+| [1441-build-an-array-with-stack-operations](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/valli-1029/LeetCode-Solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [1441-build-an-array-with-stack-operations](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [1441-build-an-array-with-stack-operations](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 ## Design
 |  |
 | ------- |
