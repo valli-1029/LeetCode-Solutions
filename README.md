@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0343-integer-break](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Memoization
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Heap (Priority Queue)
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0678-valid-parenthesis-string](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## String Matching
 |  |
 | ------- |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 ## Design
 |  |
