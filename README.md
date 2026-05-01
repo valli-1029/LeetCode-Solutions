@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 ## Stack
 |  |
 | ------- |
