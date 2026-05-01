@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0089-gray-code) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
