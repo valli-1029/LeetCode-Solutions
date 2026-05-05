@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0179-largest-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0678-valid-parenthesis-string](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Heap (Priority Queue)
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0179-largest-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0678-valid-parenthesis-string](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
