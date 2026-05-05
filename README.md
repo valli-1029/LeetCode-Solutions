@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
