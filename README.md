@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0575-distribute-candies](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1250-check-if-it-is-a-good-array](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1250-check-if-it-is-a-good-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0575-distribute-candies](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 ## Two Pointers
 |  |
 | ------- |
