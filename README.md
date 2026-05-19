@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/valli-1029/LeetCode-Solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/valli-1029/LeetCode-Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3516-find-closest-person](https://github.com/valli-1029/LeetCode-Solutions/tree/master/3516-find-closest-person) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/valli-1029/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/valli-1029/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/valli-1029/LeetCode-Solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/valli-1029/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Enumeration
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/valli-1029/LeetCode-Solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/valli-1029/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/valli-1029/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0575-distribute-candies](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0575-distribute-candies) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/valli-1029/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -345,4 +349,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/valli-1029/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 <!---LeetCode Topics End-->
