@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/valli-1029/LeetCode-Solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/valli-1029/LeetCode-Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3516-find-closest-person](https://github.com/valli-1029/LeetCode-Solutions/tree/master/3516-find-closest-person) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/valli-1029/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/valli-1029/LeetCode-Solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/valli-1029/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
 | ------- |
