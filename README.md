@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1250-check-if-it-is-a-good-array](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1492-the-kth-factor-of-n](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
+| [1622-fancy-sequence](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 | [1952-three-divisors](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/valli-1029/LeetCode-Solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/valli-1029/LeetCode-Solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1250-check-if-it-is-a-good-array](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1492-the-kth-factor-of-n](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
+| [1622-fancy-sequence](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 | [1952-three-divisors](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/valli-1029/LeetCode-Solutions/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/valli-1029/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [1622-fancy-sequence](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 ## Queue
 |  |
 | ------- |
@@ -353,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/valli-1029/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
