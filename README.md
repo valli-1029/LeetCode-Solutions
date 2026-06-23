@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0887-super-egg-drop](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0887-super-egg-drop) |
 | [1250-check-if-it-is-a-good-array](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1492-the-kth-factor-of-n](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1622-fancy-sequence](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1622-fancy-sequence) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0887-super-egg-drop](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0887-super-egg-drop) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0887-super-egg-drop](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0887-super-egg-drop) |
 ## Memoization
 |  |
 | ------- |
