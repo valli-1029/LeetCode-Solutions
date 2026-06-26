@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0382-linked-list-random-node](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0382-linked-list-random-node) |
 | [0509-fibonacci-number](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0887-super-egg-drop](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0887-super-egg-drop) |
 | [1250-check-if-it-is-a-good-array](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1250-check-if-it-is-a-good-array) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0382-linked-list-random-node) |
 | [0707-design-linked-list](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0707-design-linked-list) |
 ## Stack
 |  |
@@ -395,4 +397,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
