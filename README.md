@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0575-distribute-candies](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0575-distribute-candies) |
+| [1805-number-of-different-integers-in-a-string](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/valli-1029/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/valli-1029/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/valli-1029/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [1805-number-of-different-integers-in-a-string](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/valli-1029/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String Matching
 |  |
